@@ -1,0 +1,35 @@
+<ion-view view-title="Favoritos">
+
+    <ion-nav-bar class="bar-calm">
+      
+    </ion-nav-bar>
+
+
+  <ion-content>
+    
+    <div class="list">
+      <a class="item"
+         collection-repeat="registro in listaFavorito"
+         collection-item-height="50"
+         collection-item-width="'100%'"
+         href="#/app/detalhe/{{registro._id}}">
+
+        <p style="font-size:12px;">{{registro.descricao}}</p>     
+      </a>
+    </div>
+
+  </ion-content>
+</ion-view>
+
+
+ <div class="tabs tabs-icon-top">
+    <a class="tab-item" href="#/app/area_avaliacao">
+      <i class="icon ion-home"></i>
+      Home
+    </a>
+
+    <a class="tab-item" href="#/app/sobre">
+      <i class="icon ion-information-circled"></i>
+      Sobre
+    </a>
+  </div>

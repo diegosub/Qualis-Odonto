@@ -1,0 +1,1374 @@
+[
+    {
+        "_id": 760,
+        "descricao": "ABSTRACT AND APPLIED ANALYSIS\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 761,
+        "descricao": "ACTA ACUSTICA\t                                                                                                                                                                                          "
+    },
+    {
+        "_id": 762,
+        "descricao": "ACTA CIR\\DARGICA BRASILEIRA (IMPRESSO)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 763,
+        "descricao": "ACTA CIR\\DARGICA BRASILEIRA (ONLINE)\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 764,
+        "descricao": "ACTA CYTOLOGICA\t                                                                                                                                                                                        "
+    },
+    {
+        "_id": 765,
+        "descricao": "ACTA FARMAC\\C9UTICA BONAERENSE\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 766,
+        "descricao": "ACTA MEDICA OKAYAMA\t                                                                                                                                                                                    "
+    },
+    {
+        "_id": 767,
+        "descricao": "ACTA METALLURGICA SINICA\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 768,
+        "descricao": "ACTA ODONTOLOGICA SCANDINAVICA (TRYKT UTG.)\t                                                                                                                                                            "
+    },
+    {
+        "_id": 769,
+        "descricao": "ACTA OTO-LARYNGOLOGICA\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 770,
+        "descricao": "ACTA PHARMACEUTICA\t                                                                                                                                                                                     "
+    },
+    {
+        "_id": 771,
+        "descricao": "ACTA SCIENTIARUM. AGRONOMY (ONLINE)\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 772,
+        "descricao": "ACTA VETERINARIA BRNO (PRINT)\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 773,
+        "descricao": "ACUPUNCTURE IN MEDICINE\t                                                                                                                                                                                "
+    },
+    {
+        "_id": 774,
+        "descricao": "ADVANCES IN APPLIED CERAMICS (PRINT)\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 775,
+        "descricao": "ADVANCES IN ENGINEERING SOFTWARE (1992)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 776,
+        "descricao": "AESTHETIC PLASTIC SURGERY\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 777,
+        "descricao": "AFRICAN JOURNAL OF MICROBIOLOGY RESEARCH\t                                                                                                                                                               "
+    },
+    {
+        "_id": 778,
+        "descricao": "AGING & MENTAL HEALTH (PRINT)\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 779,
+        "descricao": "AMERICAN JOURNAL OF APPLIED SCIENCES\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 780,
+        "descricao": "AMERICAN JOURNAL OF IMMUNOLOGY\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 781,
+        "descricao": "AMERICAN JOURNAL OF OTOLARYNGOLOGY (PRINT)\t                                                                                                                                                             "
+    },
+    {
+        "_id": 782,
+        "descricao": "ANALYTICAL AND QUANTITATIVE CYTOLOGY AND HISTOLOGY\t                                                                                                                                                     "
+    },
+    {
+        "_id": 783,
+        "descricao": "ANATOMIA, HISTOLOGIA, EMBRYOLOGIA\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 784,
+        "descricao": "ANATOMICAL SCIENCE INTERNATIONAL\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 785,
+        "descricao": "ANESTHESIA PROGRESS\t                                                                                                                                                                                    "
+    },
+    {
+        "_id": 786,
+        "descricao": "ANNALS OF DIAGNOSTIC PATHOLOGY (PRINT)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 787,
+        "descricao": "APPLIED ARTIFICIAL INTELLIGENCE\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 788,
+        "descricao": "APPLIED IMMUNOHISTOCHEMISTRY & MOLECULAR MORPHOLOGY (PRINT)\t                                                                                                                                            "
+    },
+    {
+        "_id": 789,
+        "descricao": "APPLIED RADIATION AND ISOTOPES\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 790,
+        "descricao": "ARCHIVES OF ENVIRONMENTAL & OCCUPATIONAL HEALTH\t                                                                                                                                                        "
+    },
+    {
+        "_id": 791,
+        "descricao": "ARCHIVES OF GYNECOLOGY AND OBSTETRICS (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 792,
+        "descricao": "ARCHIVES OF OSTEOPOROSIS (ONLINE)\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 793,
+        "descricao": "ARCHIVES OF OSTEOPOROSIS (PRINT)\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 794,
+        "descricao": "ARQUIVOS BRASILEIROS DE CARDIOLOGIA (IMPRESSO)\t                                                                                                                                                         "
+    },
+    {
+        "_id": 795,
+        "descricao": "ARQUIVOS BRASILEIROS DE ENDOCRINOLOGIA E METABOLOGIA (IMPRESSO)\t                                                                                                                                        "
+    },
+    {
+        "_id": 796,
+        "descricao": "ARQUIVOS DE NEURO-PSIQUIATRIA (IMPRESSO)\t                                                                                                                                                               "
+    },
+    {
+        "_id": 797,
+        "descricao": "ASIAN PACIFIC JOURNAL OF CANCER PREVENTION\t                                                                                                                                                             "
+    },
+    {
+        "_id": 798,
+        "descricao": "AURIS, NASUS, LARYNX\t                                                                                                                                                                                   "
+    },
+    {
+        "_id": 799,
+        "descricao": "AUSTRALIAN AND NEW ZEALAND JOURNAL OF PUBLIC HEALTH\t                                                                                                                                                    "
+    },
+    {
+        "_id": 800,
+        "descricao": "AUSTRALIAN DENTAL JOURNAL (PRINT)\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 801,
+        "descricao": "AUSTRALIAN ENDODONTIC JOURNAL\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 802,
+        "descricao": "BALKAN UNION OF ONCOLOGY. JOURNAL\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 803,
+        "descricao": "BIOCHEMICAL GENETICS\t                                                                                                                                                                                   "
+    },
+    {
+        "_id": 804,
+        "descricao": "BIOMEDICAL ENGINEERING ONLINE (ONLINE)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 805,
+        "descricao": "BIOTECHNIC & HISTOCHEMISTRY\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 806,
+        "descricao": "BLOOD PURIFICATION\t                                                                                                                                                                                     "
+    },
+    {
+        "_id": 808,
+        "descricao": "BMC CLINICAL PATHOLOGY (ONLINE)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 807,
+        "descricao": "BMC. BIOMEDICAL CHROMATOGRAPHY\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 809,
+        "descricao": "BOLET\\CDN LATINOAMERICANO Y DEL CARIBE DE PLANTAS MEDICINALES Y AROM\\C1TICAS\t                                                                                                                           "
+    },
+    {
+        "_id": 810,
+        "descricao": "BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (IMPRESSO)\t                                                                                                                                                "
+    },
+    {
+        "_id": 811,
+        "descricao": "BRAZILIAN JOURNAL OF BIOLOGY (IMPRESSO)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 812,
+        "descricao": "BRAZILIAN JOURNAL OF CHEMICAL ENGINEERING (IMPRESSO)\t                                                                                                                                                   "
+    },
+    {
+        "_id": 815,
+        "descricao": "BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH (IMPRESSO)\t                                                                                                                                        "
+    },
+    {
+        "_id": 813,
+        "descricao": "BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH\t                                                                                                                                                   "
+    },
+    {
+        "_id": 814,
+        "descricao": "BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH\t                                                                                                                                                   "
+    },
+    {
+        "_id": 816,
+        "descricao": "BRAZILIAN JOURNAL OF MICROBIOLOGY (IMPRESSO)\t                                                                                                                                                           "
+    },
+    {
+        "_id": 817,
+        "descricao": "BRAZILIAN JOURNAL OF PHYSICS (IMPRESSO)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 818,
+        "descricao": "BRAZILIAN JOURNAL OF PLANT PHYSIOLOGY (IMPRESSO)\t                                                                                                                                                       "
+    },
+    {
+        "_id": 819,
+        "descricao": "BRITISH DENTAL JOURNAL\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 820,
+        "descricao": "CANADIAN JOURNAL OF MICROBIOLOGY (ONLINE)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 821,
+        "descricao": "CANADIAN JOURNAL OF MICROBIOLOGY (PRINT)\t                                                                                                                                                               "
+    },
+    {
+        "_id": 822,
+        "descricao": "CANCER BIOMARKERS\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 823,
+        "descricao": "CANCER BIOMARKERS: SECTION OF DISEASE MARKERS\t                                                                                                                                                          "
+    },
+    {
+        "_id": 824,
+        "descricao": "CANCER GENETICS AND CYTOGENETICS\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 825,
+        "descricao": "CELL AND TISSUE BANKING\t                                                                                                                                                                                "
+    },
+    {
+        "_id": 826,
+        "descricao": "CENTRAL EUROPEAN JOURNAL OF BIOLOGY\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 827,
+        "descricao": "CERAMICS INTERNATIONAL\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 828,
+        "descricao": "CHEMICAL AND PHARMACEUTICAL BULLETIN\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 829,
+        "descricao": "CHILD CARE HEALTH AND DEVELOPMENT (PRINT)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 836,
+        "descricao": "CLIN TRANSL ONCOL\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 830,
+        "descricao": "CLINICAL ANATOMY (NEW YORK, N.Y. PRINT)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 831,
+        "descricao": "CLINICAL AND EXPERIMENTAL DERMATOLOGY (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 832,
+        "descricao": "CLINICAL AND EXPERIMENTAL HYPERTENSION (1993, PRINT)\t                                                                                                                                                   "
+    },
+    {
+        "_id": 833,
+        "descricao": "CLINICAL DYSMORPHOLOGY\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 834,
+        "descricao": "CLINICAL OPHTHALMOLOGY (ONLINE)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 835,
+        "descricao": "CLINICS IN PLASTIC SURGERY\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 837,
+        "descricao": "COMMUNITY DENTAL HEALTH\t                                                                                                                                                                                "
+    },
+    {
+        "_id": 838,
+        "descricao": "COMPENDIUM OF CONTINUING EDUCATION IN DENTISTRY (JAMESBURG)\t                                                                                                                                            "
+    },
+    {
+        "_id": 839,
+        "descricao": "COMPLEMENTARY THERAPIES IN CLINICAL PRACTICE\t                                                                                                                                                           "
+    },
+    {
+        "_id": 840,
+        "descricao": "COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE (PRINT)\t                                                                                                                                                   "
+    },
+    {
+        "_id": 841,
+        "descricao": "CONNECTIVE TISSUE RESEARCH (PRINT)\t                                                                                                                                                                     "
+    },
+    {
+        "_id": 842,
+        "descricao": "CONTACT LENS & ANTERIOR EYE\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 843,
+        "descricao": "CRANIO. JOURNAL OF CRANIOMANDIBULAR PRACTICE\t                                                                                                                                                           "
+    },
+    {
+        "_id": 844,
+        "descricao": "CROATICA CHEMICA ACTA\t                                                                                                                                                                                  "
+    },
+    {
+        "_id": 845,
+        "descricao": "CRYSTAL RESEARCH AND TECHNOLOGY (1981)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 846,
+        "descricao": "CURRENT ENZYME INHIBITION\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 847,
+        "descricao": "CURRENT MICROBIOLOGY (PRINT)\t                                                                                                                                                                           "
+    },
+    {
+        "_id": 848,
+        "descricao": "CUTIS (NEW YORK, N.Y.)\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 849,
+        "descricao": "CYTA: JOURNAL OF FOOD (ONLINE)\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 850,
+        "descricao": "CYTOPATHOLOGY (OXFORD. PRINT)\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 851,
+        "descricao": "CYTOTECHNOLOGY (DORDRECHT)\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 852,
+        "descricao": "DENTAL MATERIALS JOURNAL\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 853,
+        "descricao": "DERMATOLOGY ONLINE JOURNAL\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 854,
+        "descricao": "DIAGNOSTIC CYTOPATHOLOGY (PRINT)\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 855,
+        "descricao": "DIE PHARMAZIE (BERLIN)\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 856,
+        "descricao": "DRUG DELIVERY\t                                                                                                                                                                                          "
+    },
+    {
+        "_id": 857,
+        "descricao": "DRUG DEVELOPMENT AND INDUSTRIAL PHARMACY (PRINT)\t                                                                                                                                                       "
+    },
+    {
+        "_id": 858,
+        "descricao": "ELECTRONIC JOURNAL OF BIOTECHNOLOGY\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 859,
+        "descricao": "ELECTRONICS LETTERS\t                                                                                                                                                                                    "
+    },
+    {
+        "_id": 860,
+        "descricao": "ENVIRONMENTAL AND ECOLOGICAL STATISTICS\t                                                                                                                                                                "
+    },
+    {
+        "_id": 861,
+        "descricao": "ENVIRONMENTAL MONITORING AND ASSESSMENT (DORDRECHT. ONLINE)\t                                                                                                                                            "
+    },
+    {
+        "_id": 862,
+        "descricao": "EPIDEMIOLOGIA E PREVENZIONE (ONLINE)\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 863,
+        "descricao": "EUROPEAN ARCHIVES OF OTO-RHINO-LARYNGOLOGY\t                                                                                                                                                             "
+    },
+    {
+        "_id": 864,
+        "descricao": "EUROPEAN ARCHIVES OF PAEDIATRIC DENTISTRY (ONLINE)\t                                                                                                                                                     "
+    },
+    {
+        "_id": 865,
+        "descricao": "EUROPEAN ARCHIVES OF PAEDIATRIC DENTISTRY (PRINT)\t                                                                                                                                                      "
+    },
+    {
+        "_id": 866,
+        "descricao": "EUROPEAN EATING DISORDERS REVIEW\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 867,
+        "descricao": "EUROPEAN JOURNAL OF DENTAL EDUCATION\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 868,
+        "descricao": "EUROPEAN JOURNAL OF ESTHETIC DENTISTRY\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 869,
+        "descricao": "EUROPEAN JOURNAL OF GYNAECOLOGICAL ONCOLOGY\t                                                                                                                                                            "
+    },
+    {
+        "_id": 870,
+        "descricao": "EUROPEAN JOURNAL OF ORTHODONTICS (ONLINE)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 871,
+        "descricao": "EUROPEAN JOURNAL OF ORTHODONTICS (PRINT)\t                                                                                                                                                               "
+    },
+    {
+        "_id": 872,
+        "descricao": "EVIDENCE-BASED DENTISTRY\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 873,
+        "descricao": "EXPERIMENTAL DIABETES RESEARCH (ONLINE)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 874,
+        "descricao": "FAMILIAL CANCER\t                                                                                                                                                                                        "
+    },
+    {
+        "_id": 875,
+        "descricao": "FITOTERAPIA (MILANO)\t                                                                                                                                                                                   "
+    },
+    {
+        "_id": 876,
+        "descricao": "FLUORIDE\t                                                                                                                                                                                               "
+    },
+    {
+        "_id": 877,
+        "descricao": "FOOD SCIENCE AND BIOTECHNOLOGY (SEOUL)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 878,
+        "descricao": "FRONTIERS OF ORAL BIOLOGY\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 879,
+        "descricao": "GACETA SANITARIA (BARCELONA. ED. IMPRESA)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 880,
+        "descricao": "GASTROENTEROLOGY RESEARCH AND PRACTICE\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 881,
+        "descricao": "GENERAL DENTISTRY\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 884,
+        "descricao": "GENETIC TESTING AND MOLECULAR BIOMARKERS (ONLINE)\t                                                                                                                                                      "
+    },
+    {
+        "_id": 882,
+        "descricao": "GENETICS AND MOLECULAR BIOLOGY (IMPRESSO)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 883,
+        "descricao": "GENETICS AND MOLECULAR RESEARCH\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 885,
+        "descricao": "GERODONTOLOGY\t                                                                                                                                                                                          "
+    },
+    {
+        "_id": 886,
+        "descricao": "GYNECOLOGICAL ENDOCRINOLOGY\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 889,
+        "descricao": "HEAD & FACE MEDICINE\t                                                                                                                                                                                   "
+    },
+    {
+        "_id": 887,
+        "descricao": "HEAD AND NECK PATHOLOGY (ONLINE)\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 888,
+        "descricao": "HEAD AND NECK PATHOLOGY (PRINT)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 890,
+        "descricao": "HEALTH & SOCIAL CARE IN THE COMMUNITY (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 891,
+        "descricao": "HOMEOPATHY (EDINBURGH. PRINT)\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 892,
+        "descricao": "IMMUNOLOGICAL INVESTIGATIONS\t                                                                                                                                                                           "
+    },
+    {
+        "_id": 893,
+        "descricao": "IMPLANT DENTISTRY (ONLINE)\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 894,
+        "descricao": "IMPLANT DENTISTRY (PRINT)\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 899,
+        "descricao": "IN SILICO BIOLOGY (ONLINE)\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 913,
+        "descricao": "IN VIVO (ATHENS)\t                                                                                                                                                                                       "
+    },
+    {
+        "_id": 895,
+        "descricao": "INDIAN JOURNAL OF CANCER\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 896,
+        "descricao": "INDIAN JOURNAL OF DENTAL RESEARCH\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 897,
+        "descricao": "INDIAN JOURNAL OF DERMATOLOGY\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 898,
+        "descricao": "INDIAN JOURNAL OF PATHOLOGY AND MICROBIOLOGY (PRINT)\t                                                                                                                                                   "
+    },
+    {
+        "_id": 901,
+        "descricao": "INTERNATIONAL BRAZ J UROL (ONLINE)\t                                                                                                                                                                     "
+    },
+    {
+        "_id": 900,
+        "descricao": "INTERNATIONAL BRAZILIAN JOURNAL OF UROLOGY (IMPRESSO)\t                                                                                                                                                  "
+    },
+    {
+        "_id": 902,
+        "descricao": "INTERNATIONAL JOURNAL OF APPLIED CERAMIC TECHNOLOGY\t                                                                                                                                                    "
+    },
+    {
+        "_id": 903,
+        "descricao": "INTERNATIONAL JOURNAL OF CLINICAL PHARMACOLOGY AND THERAPEUTICS\t                                                                                                                                        "
+    },
+    {
+        "_id": 904,
+        "descricao": "INTERNATIONAL JOURNAL OF DENTAL HYGIENE (ONLINE)\t                                                                                                                                                       "
+    },
+    {
+        "_id": 905,
+        "descricao": "INTERNATIONAL JOURNAL OF DENTAL HYGIENE (PRINT)\t                                                                                                                                                        "
+    },
+    {
+        "_id": 906,
+        "descricao": "INTERNATIONAL JOURNAL OF DERMATOLOGY\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 907,
+        "descricao": "INTERNATIONAL JOURNAL OF HEALTH SERVICES (PRINT)\t                                                                                                                                                       "
+    },
+    {
+        "_id": 908,
+        "descricao": "INTERNATIONAL JOURNAL OF ORAL SCIENCE\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 909,
+        "descricao": "INTERNATIONAL JOURNAL OF PEDIATRIC OTORHINOLARYNGOLOGY (PRINT)\t                                                                                                                                         "
+    },
+    {
+        "_id": 910,
+        "descricao": "INTERNATIONAL JOURNAL OF REMOTE SENSING (PRINT)\t                                                                                                                                                        "
+    },
+    {
+        "_id": 911,
+        "descricao": "INTERNATIONAL JOURNAL OF STD & AIDS\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 912,
+        "descricao": "INTERNATIONAL JOURNAL OF SURGICAL PATHOLOGY\t                                                                                                                                                            "
+    },
+    {
+        "_id": 914,
+        "descricao": "JAPANESE DENTAL SCIENCE REVIEW\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 915,
+        "descricao": "JORNAL BRASILEIRO DE PNEUMOLOGIA (IMPRESSO)\t                                                                                                                                                            "
+    },
+    {
+        "_id": 916,
+        "descricao": "JORNAL BRASILEIRO DE PNEUMOLOGIA (ONLINE)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 917,
+        "descricao": "JORNAL DE PEDIATRIA (IMPRESSO)\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 918,
+        "descricao": "JORNAL DE PEDIATRIA (ONLINE)\t                                                                                                                                                                           "
+    },
+    {
+        "_id": 919,
+        "descricao": "JOURNAL - CANADIAN DENTAL ASSOCIATION\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 920,
+        "descricao": "JOURNAL OF ADHESION SCIENCE AND TECHNOLOGY (PRINT)\t                                                                                                                                                     "
+    },
+    {
+        "_id": 921,
+        "descricao": "JOURNAL OF ANALYTICAL TOXICOLOGY\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 922,
+        "descricao": "JOURNAL OF APPLIED BIOMATERIALS & BIOMECHANICS (TESTO STAMPATO)\t                                                                                                                                        "
+    },
+    {
+        "_id": 923,
+        "descricao": "JOURNAL OF APPLIED POLYMER SCIENCE (ONLINE)\t                                                                                                                                                            "
+    },
+    {
+        "_id": 924,
+        "descricao": "JOURNAL OF APPLIED POLYMER SCIENCE (PRINT)\t                                                                                                                                                             "
+    },
+    {
+        "_id": 925,
+        "descricao": "JOURNAL OF BIOCHEMICAL AND MOLECULAR TOXICOLOGY\t                                                                                                                                                        "
+    },
+    {
+        "_id": 926,
+        "descricao": "JOURNAL OF BURN CARE & RESEARCH\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 927,
+        "descricao": "JOURNAL OF CLINICAL ANESTHESIA\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 928,
+        "descricao": "JOURNAL OF COSMETIC DERMATOLOGY (PRINT)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 929,
+        "descricao": "JOURNAL OF CROSS-CULTURAL GERONTOLOGY\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 930,
+        "descricao": "JOURNAL OF DENTAL EDUCATION\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 931,
+        "descricao": "JOURNAL OF DENTISTRY FOR CHILDREN (ONLINE)\t                                                                                                                                                             "
+    },
+    {
+        "_id": 932,
+        "descricao": "JOURNAL OF DIGITAL IMAGING\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 933,
+        "descricao": "JOURNAL OF ELECTROCARDIOLOGY (PRINT)\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 935,
+        "descricao": "JOURNAL OF ESTHETIC AND RESTORATIVE DENTISTRY (ONLINE)\t                                                                                                                                                 "
+    },
+    {
+        "_id": 934,
+        "descricao": "JOURNAL OF ESTHETIC AND RESTORATIVE DENTISTRY\t                                                                                                                                                          "
+    },
+    {
+        "_id": 936,
+        "descricao": "JOURNAL OF FOOD PROCESSING AND PRESERVATION\t                                                                                                                                                            "
+    },
+    {
+        "_id": 937,
+        "descricao": "JOURNAL OF FORENSIC AND LEGAL MEDICINE\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 938,
+        "descricao": "JOURNAL OF HEALTH SCIENCE\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 939,
+        "descricao": "JOURNAL OF INFECTION AND PUBLIC HEALTH\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 940,
+        "descricao": "JOURNAL OF INORGANIC AND ORGANOMETALLIC POLYMERS AND MATERIALS (PRINT)\t                                                                                                                                 "
+    },
+    {
+        "_id": 941,
+        "descricao": "JOURNAL OF INVESTIGATIVE SURGERY\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 942,
+        "descricao": "JOURNAL OF LASER APPLICATIONS\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 943,
+        "descricao": "JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE (PRINT)\t                                                                                                                                               "
+    },
+    {
+        "_id": 944,
+        "descricao": "JOURNAL OF MEDICAL ENGINEERING & TECHNOLOGY\t                                                                                                                                                            "
+    },
+    {
+        "_id": 945,
+        "descricao": "JOURNAL OF MEDICINAL FOOD\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 946,
+        "descricao": "JOURNAL OF MICROBIOLOGY, IMMUNOLOGY AND INFECTION\t                                                                                                                                                      "
+    },
+    {
+        "_id": 947,
+        "descricao": "JOURNAL OF MICROENCAPSULATION\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 948,
+        "descricao": "JOURNAL OF MOLECULAR HISTOLOGY (PRINT)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 949,
+        "descricao": "JOURNAL OF MOLECULAR SPECTROSCOPY (PRINT)\t                                                                                                                                                              "
+    },
+    {
+        "_id": 950,
+        "descricao": "JOURNAL OF NEGATIVE RESULTS IN BIOMEDICINE\t                                                                                                                                                             "
+    },
+    {
+        "_id": 951,
+        "descricao": "JOURNAL OF NON-CRYSTALLINE SOLIDS\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 952,
+        "descricao": "JOURNAL OF OBSTETRICS AND GYNAECOLOGY RESEARCH\t                                                                                                                                                         "
+    },
+    {
+        "_id": 954,
+        "descricao": "JOURNAL OF ORAL SCIENCE (ONLINE)\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 953,
+        "descricao": "JOURNAL OF ORAL SCIENCE\t                                                                                                                                                                                "
+    },
+    {
+        "_id": 955,
+        "descricao": "JOURNAL OF ORTHOPAEDIC SCIENCE (PRINT)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 956,
+        "descricao": "JOURNAL OF PEDIATRIC ENDOCRINOLOGY & METABOLISM\t                                                                                                                                                        "
+    },
+    {
+        "_id": 957,
+        "descricao": "JOURNAL OF PEDIATRIC HEMATOLOGY/ONCOLOGY (PRINT)\t                                                                                                                                                       "
+    },
+    {
+        "_id": 958,
+        "descricao": "JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS\t                                                                                                                                                             "
+    },
+    {
+        "_id": 959,
+        "descricao": "JOURNAL OF PHYSIOLOGY AND BIOCHEMISTRY\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 960,
+        "descricao": "JOURNAL OF PROSTHODONTIC RESEARCH\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 961,
+        "descricao": "JOURNAL OF PROSTHODONTICS (ONLINE)\t                                                                                                                                                                     "
+    },
+    {
+        "_id": 962,
+        "descricao": "JOURNAL OF PROSTHODONTICS (PRINT)\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 963,
+        "descricao": "JOURNAL OF PUBLIC HEALTH (WEINHEIM)\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 964,
+        "descricao": "JOURNAL OF RADIOANALYTICAL AND NUCLEAR CHEMISTRY (PRINT)\t                                                                                                                                               "
+    },
+    {
+        "_id": 965,
+        "descricao": "JOURNAL OF RECOSNTRUCTIVE MICROSURGERY\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 966,
+        "descricao": "JOURNAL OF SCHOOL HEALTH\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 967,
+        "descricao": "JOURNAL OF TELEMEDICINE AND TELECARE\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 968,
+        "descricao": "JOURNAL OF TEXTURE STUDIES\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 969,
+        "descricao": "JOURNAL OF THE AMERICAN ASSOCIATION FOR LABORATORY ANIMAL SCIENCE\t                                                                                                                                      "
+    },
+    {
+        "_id": 970,
+        "descricao": "JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY (IMPRESSO)\t                                                                                                                                                   "
+    },
+    {
+        "_id": 971,
+        "descricao": "JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY (ONLINE)\t                                                                                                                                                     "
+    },
+    {
+        "_id": 972,
+        "descricao": "JOURNAL OF THE CANADIAN DENTAL ASSOCIATION (ONLINE)\t                                                                                                                                                    "
+    },
+    {
+        "_id": 973,
+        "descricao": "JOURNAL OF THE INTERNATIONAL ACADEMY OF PERIODONTOLOGY\t                                                                                                                                                 "
+    },
+    {
+        "_id": 974,
+        "descricao": "JOURNAL OF THERMAL BIOLOGY\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 975,
+        "descricao": "JOURNAL OF TROPICAL PEDIATRICS (1980)\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 976,
+        "descricao": "JOURNAL OF ULTRASOUND IN MEDICINE\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 977,
+        "descricao": "JOURNAL OF UNIVERSAL COMPUTER SCIENCE (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 978,
+        "descricao": "JOURNAL OF VETERINARY MEDICAL SCIENCE\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 979,
+        "descricao": "JOURNAL OF VOICE\t                                                                                                                                                                                       "
+    },
+    {
+        "_id": 980,
+        "descricao": "KOREAN JOURNAL OF ORTHODONTICS\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 981,
+        "descricao": "LAB ANIMAL\t                                                                                                                                                                                             "
+    },
+    {
+        "_id": 982,
+        "descricao": "LEPROSY REVIEW\t                                                                                                                                                                                         "
+    },
+    {
+        "_id": 983,
+        "descricao": "MACROMOLECULAR SYMPOSIA\t                                                                                                                                                                                "
+    },
+    {
+        "_id": 984,
+        "descricao": "MEDICAL HYPOTHESES\t                                                                                                                                                                                     "
+    },
+    {
+        "_id": 986,
+        "descricao": "MEDICINA ORAL, PATOLOG\\CDA ORAL Y CIRUG\\CDA BUCAL (ED. IMPRESA)\t                                                                                                                                        "
+    },
+    {
+        "_id": 987,
+        "descricao": "MEDICINA ORAL, PATOLOG\\CDA ORAL Y CIRUG\\CDA BUCAL (INTERNET)\t                                                                                                                                           "
+    },
+    {
+        "_id": 985,
+        "descricao": "MEDICINAL CHEMISTRY (HILVERSUM)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 988,
+        "descricao": "METHODS AND FINDINGS IN EXPERIMENTAL AND CLINICAL PHARMACOLOGY\t                                                                                                                                         "
+    },
+    {
+        "_id": 989,
+        "descricao": "METHODS IN MOLECULAR BIOLOGY (CLIFTON, N.J.)\t                                                                                                                                                           "
+    },
+    {
+        "_id": 990,
+        "descricao": "METHODS OF INFORMATION IN MEDICINE\t                                                                                                                                                                     "
+    },
+    {
+        "_id": 991,
+        "descricao": "MICROBIOLOGY AND IMMUNOLOGY\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 992,
+        "descricao": "MICROSURGERY\t                                                                                                                                                                                           "
+    },
+    {
+        "_id": 993,
+        "descricao": "MICROWAVE AND OPTICAL TECHNOLOGY LETTERS (PRINT)\t                                                                                                                                                       "
+    },
+    {
+        "_id": 994,
+        "descricao": "NATURAL MEDICINES\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 995,
+        "descricao": "NATURAL PRODUCT COMMUNICATIONS\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 996,
+        "descricao": "NATURAL PRODUCT RESEARCH (PRINT)\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 997,
+        "descricao": "NEOPLASMA (BRATISLAVA)\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 998,
+        "descricao": "NUCLEOSIDES, NUCLEOTIDES & NUCLEIC ACIDS\t                                                                                                                                                               "
+    },
+    {
+        "_id": 999,
+        "descricao": "NUTRICI\\D3N HOSPITALARIA\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 1000,
+        "descricao": "OCCUPATIONAL MEDICINE (OXFORD)\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 1001,
+        "descricao": "ODONTOLOGY\t                                                                                                                                                                                             "
+    },
+    {
+        "_id": 1002,
+        "descricao": "ODONTOLOGY\t                                                                                                                                                                                             "
+    },
+    {
+        "_id": 1003,
+        "descricao": "OPHTHALMIC SURGERY, LASERS & IMAGING\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 1004,
+        "descricao": "OPTICS COMMUNICATIONS (PRINT)\t                                                                                                                                                                          "
+    },
+    {
+        "_id": 1005,
+        "descricao": "OPTIK (STUTTGART)\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 1007,
+        "descricao": "ORAL AND MAXILLOFACIAL SURGERY (PRINT)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 1006,
+        "descricao": "ORAL AND MAXILLOFACIAL SURGERY\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 1008,
+        "descricao": "ORAL HEALTH & PREVENTIVE DENTISTRY\t                                                                                                                                                                     "
+    },
+    {
+        "_id": 1009,
+        "descricao": "ORL (BASEL)\t                                                                                                                                                                                            "
+    },
+    {
+        "_id": 1010,
+        "descricao": "OZONE: SCIENCE & ENGINEERING\t                                                                                                                                                                           "
+    },
+    {
+        "_id": 1011,
+        "descricao": "PALACKY UNIVERSITY IN OLOMOUC. MEDICAL FACULTY. BIOMEDICAL PAPERS\t                                                                                                                                      "
+    },
+    {
+        "_id": 1012,
+        "descricao": "PATHOBIOLOGY (BASEL)\t                                                                                                                                                                                   "
+    },
+    {
+        "_id": 1013,
+        "descricao": "PATHOLOGY INTERNATIONAL (PRINT)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 1014,
+        "descricao": "PATHOLOGY ONCOLOGY RESEARCH\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 1015,
+        "descricao": "PATHOLOGY, RESEARCH AND PRACTICE (PRINT)\t                                                                                                                                                               "
+    },
+    {
+        "_id": 1016,
+        "descricao": "PEDIATRIC AND DEVELOPMENTAL PATHOLOGY (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 1017,
+        "descricao": "PEDIATRIC DERMATOLOGY\t                                                                                                                                                                                  "
+    },
+    {
+        "_id": 1018,
+        "descricao": "PEDIATRIC RADIOLOGY\t                                                                                                                                                                                    "
+    },
+    {
+        "_id": 1019,
+        "descricao": "PEDIATRICS INTERNATIONAL\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 1020,
+        "descricao": "PESQUISA VETERIN\\C1RIA BRASILEIRA (IMPRESSO)\t                                                                                                                                                           "
+    },
+    {
+        "_id": 1022,
+        "descricao": "PHARMACEUTICAL BIOLOGY (ONLINE)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 1021,
+        "descricao": "PHARMACEUTICAL BIOLOGY\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 1023,
+        "descricao": "PHARMACEUTICAL DEVELOPMENT AND TECHNOLOGY (PRINT)\t                                                                                                                                                      "
+    },
+    {
+        "_id": 1024,
+        "descricao": "PHILOSOPHICAL MAGAZINE (2003. PRINT)\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 1025,
+        "descricao": "PHOTODERMATOLOGY, PHOTOIMMUNOLOGY & PHOTOMEDICINE\t                                                                                                                                                      "
+    },
+    {
+        "_id": 1026,
+        "descricao": "PHYSICA STATUS SOLIDI. A, APPLICATIONS AND MATERIALS SCIENCE (PRINT)\t                                                                                                                                   "
+    },
+    {
+        "_id": 1027,
+        "descricao": "PHYSIOTHERAPY RESEARCH INTERNATIONAL\t                                                                                                                                                                   "
+    },
+    {
+        "_id": 1028,
+        "descricao": "PHYSIOTHERAPY THEORY AND PRACTICE\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 1029,
+        "descricao": "PR\\D3-FONO (IMPRESSO)\t                                                                                                                                                                                  "
+    },
+    {
+        "_id": 1030,
+        "descricao": "PR\\D3-FONO (ONLINE)\t                                                                                                                                                                                    "
+    },
+    {
+        "_id": 1031,
+        "descricao": "PROSTHETICS AND ORTHOTICS INTERNATIONAL\t                                                                                                                                                                "
+    },
+    {
+        "_id": 1032,
+        "descricao": "PSICOLOGIA: REFLEX\\C3O E CR\\CDTICA (UFRGS. IMPRESSO)\t                                                                                                                                                   "
+    },
+    {
+        "_id": 1033,
+        "descricao": "PSYCHIATRIC QUARTERLY\t                                                                                                                                                                                  "
+    },
+    {
+        "_id": 1034,
+        "descricao": "PUBLIC HEALTH (LONDON)\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 1035,
+        "descricao": "QU\\CDMICA NOVA (IMPRESSO)\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 1036,
+        "descricao": "QUINTESSENCE INTERNATIONAL\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 1037,
+        "descricao": "RADIATION MEASUREMENTS\t                                                                                                                                                                                 "
+    },
+    {
+        "_id": 1038,
+        "descricao": "RADIATION MEDICINE\t                                                                                                                                                                                     "
+    },
+    {
+        "_id": 1039,
+        "descricao": "RADIATION PHYSICS AND CHEMISTRY (1993)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 1040,
+        "descricao": "RADIATION PROTECTION DOSIMETRY\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 1041,
+        "descricao": "REACTION KINETICS, MECHANISMS AND CATALYSIS\t                                                                                                                                                            "
+    },
+    {
+        "_id": 1042,
+        "descricao": "RESEARCH IN VETERINARY SCIENCE\t                                                                                                                                                                         "
+    },
+    {
+        "_id": 1043,
+        "descricao": "REVIEW OF SCIENTIFIC INSTRUMENTS\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 1044,
+        "descricao": "REVISTA BRASILEIRA DE EPIDEMIOLOGIA (IMPRESSO)\t                                                                                                                                                         "
+    },
+    {
+        "_id": 1045,
+        "descricao": "REVISTA BRASILEIRA DE FARMACOGNOSIA (IMPRESSO)\t                                                                                                                                                         "
+    },
+    {
+        "_id": 1046,
+        "descricao": "REVISTA BRASILEIRA DE ZOOTECNIA\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 1047,
+        "descricao": "REVISTA DA ASSOCIA\\C7\\C3O M\\C9DICA BRASILEIRA (1992. IMPRESSO)\t                                                                                                                                         "
+    },
+    {
+        "_id": 1048,
+        "descricao": "REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL (IMPRESSO)\t                                                                                                                                        "
+    },
+    {
+        "_id": 1049,
+        "descricao": "REVISTA DE PSIQUIATRIA CL\\CDNICA (S\\C3O PAULO. IMPRESSO)\t                                                                                                                                               "
+    },
+    {
+        "_id": 1050,
+        "descricao": "REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE S\\C3O PAULO (IMPRESSO)\t                                                                                                                                    "
+    },
+    {
+        "_id": 1051,
+        "descricao": "REVISTA ESPA\\D1OLA DE ENFERMEDADES DIGESTIVAS\t                                                                                                                                                          "
+    },
+    {
+        "_id": 1052,
+        "descricao": "REVISTA IBEROAMERICANA DE MICOLOG\\CDA\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 1053,
+        "descricao": "REVISTA INTERNACIONAL DE PR\\D3TESIS ESTOMATOL\\D3GICA\t                                                                                                                                                   "
+    },
+    {
+        "_id": 1054,
+        "descricao": "REVISTA LATINO-AMERICANA DE ENFERMAGEM (ONLINE)\t                                                                                                                                                        "
+    },
+    {
+        "_id": 1055,
+        "descricao": "REVISTA LATINO-AMERICANA DE ENFERMAGEM (USP. RIBEIR\\C3O PRETO. IMPRESSO)\t                                                                                                                               "
+    },
+    {
+        "_id": 1056,
+        "descricao": "REVISTA PANAMERICANA DE SALUD PUBLICA (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 1057,
+        "descricao": "REVISTA PORTUGUESA DE CARDIOLOGIA\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 1058,
+        "descricao": "RHEUMATOLOGY INTERNATIONAL (BERLIN. PRINT)\t                                                                                                                                                             "
+    },
+    {
+        "_id": 1059,
+        "descricao": "RHINOLOGY (LEIDEN)\t                                                                                                                                                                                     "
+    },
+    {
+        "_id": 1060,
+        "descricao": "S\\C3O PAULO MEDICAL JOURNAL (IMPRESSO)\t                                                                                                                                                                 "
+    },
+    {
+        "_id": 1061,
+        "descricao": "SCANDINAVIAN JOURNAL OF PUBLIC HEALTH\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 1062,
+        "descricao": "SCANNING\t                                                                                                                                                                                               "
+    },
+    {
+        "_id": 1063,
+        "descricao": "SCIENCE & JUSTICE\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 1064,
+        "descricao": "SCIENTOMETRICS (ONLINE)\t                                                                                                                                                                                "
+    },
+    {
+        "_id": 1065,
+        "descricao": "SEMINARS IN ORTHODONTICS\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 1066,
+        "descricao": "SPANISH JOURNAL OF AGRICULTURAL RESEARCH\t                                                                                                                                                               "
+    },
+    {
+        "_id": 1067,
+        "descricao": "SPECIAL CARE IN DENTISTRY\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 1069,
+        "descricao": "SPECTROSCOPY (OTTAWA)\t                                                                                                                                                                                  "
+    },
+    {
+        "_id": 1068,
+        "descricao": "SPECTROSCOPY LETTERS (PRINT)\t                                                                                                                                                                           "
+    },
+    {
+        "_id": 1070,
+        "descricao": "STRESS AND HEALTH\t                                                                                                                                                                                      "
+    },
+    {
+        "_id": 1071,
+        "descricao": "SURFACE ENGINEERING\t                                                                                                                                                                                    "
+    },
+    {
+        "_id": 1072,
+        "descricao": "SURGICAL AND RADIOLOGIC ANATOMY (ONLINE)\t                                                                                                                                                               "
+    },
+    {
+        "_id": 1073,
+        "descricao": "SURGICAL AND RADIOLOGIC ANATOMY (PRINT)\t                                                                                                                                                                "
+    },
+    {
+        "_id": 1074,
+        "descricao": "TANZANIA JOURNAL OF HEALTH RESEARCH\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 1075,
+        "descricao": "TELEMEDICINE JOURNAL AND E-HEALTH\t                                                                                                                                                                      "
+    },
+    {
+        "_id": 1076,
+        "descricao": "THE AIDS READER\t                                                                                                                                                                                        "
+    },
+    {
+        "_id": 1077,
+        "descricao": "THE AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY\t                                                                                                                                                "
+    },
+    {
+        "_id": 1078,
+        "descricao": "THE BRAZILIAN JOURNAL OF INFECTIOUS DISEASES (IMPRESSO)\t                                                                                                                                                "
+    },
+    {
+        "_id": 1079,
+        "descricao": "THE CLEFT PALATE-CRANIOFACIAL JOURNAL (ONLINE)\t                                                                                                                                                         "
+    },
+    {
+        "_id": 1080,
+        "descricao": "THE CLEFT PALATE-CRANIOFACIAL JOURNAL (PRINT)\t                                                                                                                                                          "
+    },
+    {
+        "_id": 1081,
+        "descricao": "THE DENTAL CLINICS OF NORTH AMERICA\t                                                                                                                                                                    "
+    },
+    {
+        "_id": 1082,
+        "descricao": "THE JOURNAL OF ADHESION (PRINT)\t                                                                                                                                                                        "
+    },
+    {
+        "_id": 1083,
+        "descricao": "THE JOURNAL OF ALTERNATIVE AND COMPLEMENTARY MEDICINE (NEW YORK, N.Y.)\t                                                                                                                                 "
+    },
+    {
+        "_id": 1084,
+        "descricao": "THE JOURNAL OF CLINICAL PEDIATRIC DENTISTRY (PRINT)\t                                                                                                                                                    "
+    },
+    {
+        "_id": 1085,
+        "descricao": "THE JOURNAL OF CONTEMPORARY DENTAL PRACTICE\t                                                                                                                                                            "
+    },
+    {
+        "_id": 1086,
+        "descricao": "THE JOURNAL OF CRANIOFACIAL SURGERY (PRINT)\t                                                                                                                                                            "
+    },
+    {
+        "_id": 1087,
+        "descricao": "THE JOURNAL OF ESSENTIAL OIL RESEARCH\t                                                                                                                                                                  "
+    },
+    {
+        "_id": 1088,
+        "descricao": "THE JOURNAL OF EVIDENCE-BASED DENTAL PRACTICE\t                                                                                                                                                          "
+    },
+    {
+        "_id": 1089,
+        "descricao": "THE JOURNAL OF FORENSIC ODONTO-STOMATOLOGY\t                                                                                                                                                             "
+    },
+    {
+        "_id": 1090,
+        "descricao": "THE JOURNAL OF ORAL IMPLANTOLOGY\t                                                                                                                                                                       "
+    },
+    {
+        "_id": 1091,
+        "descricao": "THE JOURNAL OF TRAUMA. INJURY, INFECTION, AND CRITICAL CARE\t                                                                                                                                            "
+    },
+    {
+        "_id": 1092,
+        "descricao": "THERMOLOGY INTERNATIONAL\t                                                                                                                                                                               "
+    },
+    {
+        "_id": 1093,
+        "descricao": "TISSUE & CELL\t                                                                                                                                                                                          "
+    },
+    {
+        "_id": 1094,
+        "descricao": "TRANSPLANTATION PROCEEDINGS\t                                                                                                                                                                            "
+    },
+    {
+        "_id": 1095,
+        "descricao": "TROPICAL DOCTOR\t                                                                                                                                                                                        "
+    },
+    {
+        "_id": 1096,
+        "descricao": "ULTRASTRUCTURAL PATHOLOGY\t                                                                                                                                                                              "
+    },
+    {
+        "_id": 1097,
+        "descricao": "VASA (BERN)\t                                                                                                                                                                                            "
+    },
+    {
+        "_id": 1098,
+        "descricao": "VASCULAR MEDICINE (LONDON)\t                                                                                                                                                                             "
+    },
+    {
+        "_id": 1099,
+        "descricao": "VETERINARY AND COMPARATIVE ORTHOPAEDICS AND TRAUMATOLOGY\t                                                                                                                                               "
+    },
+    {
+        "_id": 1100,
+        "descricao": "WATER SCIENCE AND TECHNOLOGY\t                                                                                                                                                                           "
+    },
+    {
+        "_id": 1101,
+        "descricao": "X-RAY SPECTROMETRY\t                                                                                                                                                                                     "
+    },
+    {
+        "_id": 1102,
+        "descricao": "ZEITSCHRIFT FUR NATURFORSCHUNG. C, A JOURNAL OF BIOSCIENCES\t                                                                                                                                            "
+    }
+]

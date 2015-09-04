@@ -1,0 +1,29 @@
+<ion-view view-title="Estrato">
+
+    <ion-nav-bar class="bar-calm">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+      
+    </ion-nav-bar>
+
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="registro in listaEstrato" href="#/app/titulo/{{registro._id}}">
+	    	{{registro.descricao}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
+
+
+ <div class="tabs tabs-icon-top">
+    <a class="tab-item" href="#/app/area_avaliacao">
+      <i class="icon ion-home"></i>
+      Home
+    </a>
+
+    <a class="tab-item" href="#/app/sobre">
+      <i class="icon ion-information-circled"></i>
+      Sobre
+    </a>
+  </div>

@@ -1,0 +1,87 @@
+<ion-view view-title="Detalhe do Título">
+
+  <ion-nav-bar class="bar-calm">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+      
+  </ion-nav-bar>
+
+  <ion-content>
+      <div class="list card">
+        <div class="item item-divider">Título</div>
+        <div class="item item-body">
+          <div>
+            {{titulo}}
+          </div>
+        </div>
+      </div>
+
+      <div class="list card">
+        <div class="item item-divider">Área de Avaliação</div>
+        <div class="item item-body">
+          <div>
+            {{areaAvaliacao}}
+          </div>
+        </div>
+      </div>
+
+      <div class="list card">
+        <div class="item item-divider">Estrato</div>
+        <div class="item item-body">
+          <div>
+            {{estrato}}
+          </div>
+        </div>
+      </div>
+    
+      <div class="list card">
+        <div class="item item-divider">Issn</div>
+        <div class="item item-body">
+          <div>
+            {{issn}}
+          </div>
+        </div>
+      </div>
+
+      <div class="list card">
+        <div class="item item-divider">Status</div>
+        <div class="item item-body">
+          <div>
+            {{status}}
+          </div>
+        </div>
+      </div>
+
+      <div style="heigth: 20px;">
+        .:.   A2DM - Softwares .:.
+      </div>
+  </ion-content>
+</ion-view>
+
+
+ <div class="tabs tabs-icon-top">
+    <a class="tab-item" href="#/app/area_avaliacao">
+      <i class="icon ion-home"></i>
+      Home
+    </a>
+
+    <div ng-if="flgFavorito == 'S'">
+      <a class="tab-item" ng-click="desfavoritar()">
+        <img src="img/favorito.png" class="icon" />
+        Desfavoritar
+      </a>
+    </div>
+
+    <div ng-if="flgFavorito == 'N'">
+      <a class="tab-item" ng-click="favoritar()">
+        <i class="icon ion-ios-star-outline"></i>
+        Favoritar
+      </a>
+    </div>
+      
+   
+    <a class="tab-item" href="#/app/sobre">
+      <i class="icon ion-information-circled"></i>
+      Sobre
+    </a>
+  </div>

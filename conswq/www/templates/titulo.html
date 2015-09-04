@@ -1,0 +1,34 @@
+<ion-view view-title="Título">
+
+  <ion-nav-bar class="bar-calm">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+      
+  </ion-nav-bar>
+
+  <ion-header-bar class="bar bar-subheader item-input-insert bar-busca bar-positive">
+  	<div class="item-input-wrapper">
+  		<i class="icon ion-search placeholder-icon"></i>
+  		<input type="search" class="item-input-wrapper" placeholder="Digite o título da revista" ng-model="busca.search"/>
+  		<i class="icon ion-android-close placeholder-icon" ng-if="busca.search" ng-click="busca.search = ''"></i>
+  	</div>
+  </ion-header-bar>
+
+  <ion-content>
+    <div class="list">
+      <a class="item"
+         collection-repeat="registro in listaTitulo | filter:busca.search"
+         collection-item-height="50"
+         collection-item-width="'100%'"
+         href="#/app/detalhe/{{registro._id}}">
+
+	    	<p style="font-size:12px;">{{registro.descricao}}</p>	    
+      </a>
+    </div>
+   
+  </ion-content>
+
+</ion-view>
+
+
+
